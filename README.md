@@ -1,7 +1,7 @@
 # Hola, soy Nicolás Medina 👋
 
 ## 🚀 Acerca de mí
-Soy un apasionado desarrollador Full Stack de 19 años con experiencia en .NET, C#, Angular y React. Mi fuerte interés en el desarrollo de software me lleva a disfrutar de cada oportunidad para trabajar tanto en el frontend como en el backend. 
+Soy un apasionado desarrollador Full Stack con experiencia de 5 años en .NET, C#, Angular y React. Mi fuerte interés en el desarrollo de software me lleva a disfrutar de cada oportunidad para trabajar tanto en el frontend como en el backend. 
 
 Además, estoy familiarizado con el control de versiones usando Git y tengo experiencia en el despliegue de aplicaciones en la nube con AWS y Azure. Siempre estoy en busca de aprender nuevas tecnologías y perfeccionar mis habilidades existentes.
 
