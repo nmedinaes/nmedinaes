@@ -60,7 +60,7 @@ En este perfil encontrarás proyectos personales y profesionales relacionados co
 
 ## 📈 Estadísticas de GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nmedinaes)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nmedinaes?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
